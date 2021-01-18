@@ -20,7 +20,7 @@
       </td>
      <td valign="top">
       <h3>New repositories: </h3>
-           <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;261 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
+           <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;262 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;4 – <a href='https://github.com/xcaq/ml-course-msu'>ml-course-msu</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;2 – <a href='https://github.com/xcaq/NLP_Datasets'>NLP_Datasets</a></h6> 
         </td>
