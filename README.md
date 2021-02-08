@@ -1,5 +1,5 @@
 
-<h1>God dag. I'm Kirill & I ❤️ code.</h1>
+<h1>Tervist. I'm Kirill & I ❤️ code.</h1>
 <h4>Currently i work at private orders but i always open for cooperation | Watch me: <a href="http://twitch.tv/0gothboy0">Twitch <img src="https://camo.githubusercontent.com/c498d846a7be14c18a40249e3169b40671072cac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7477697463682e737667" width="10"></a></h4>
 <h5>⏰ 09 Tuesday, 12:00 | Latest follower – <a href="https://github.com/Neustradamus/" target="_blank">Neustradamus</a>👋</h5>
 <hr>
@@ -30,9 +30,9 @@
 
 
 ```text
-Python         17 hrs 17 mins      ██████░░░░     66.87%
-Kaggle         8 hrs 28 mins       ███░░░░░░░     32.78%
-Git Config     4 mins              ░░░░░░░░░░     0.31%
+Python         18 hrs 37 mins      ██████░░░░     61.56%
+Kaggle         11 hrs 31 mins      ███░░░░░░░     38.12%
+Git Config     4 mins              ░░░░░░░░░░     0.27%
 ```
 
 
