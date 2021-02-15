@@ -1,7 +1,7 @@
 
-<h1>Bonjour. I'm Kirill & I ❤️ code.</h1>
+<h1>Hey. I'm Kirill & I ❤️ code.</h1>
 <h4>Currently i work at private orders but i always open for cooperation | Write to me: <a href="https://t.me/kirillfeschenko">Telegram <img src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" width="10"></a></h4>
-<h5>⏰ 16 Tuesday, 12:00 | Latest follower – <a href="https://github.com/Neustradamus/" target="_blank">Neustradamus</a>👋</h5>
+<h5>⏰ 16 Tuesday, 12:01 | Latest follower – <a href="https://github.com/Neustradamus/" target="_blank">Neustradamus</a>👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
 <table>
@@ -30,9 +30,9 @@
 
 
 ```text
-Python         22 hrs 29 mins      █████░░░░░     50.82%
-Kaggle         19 hrs 37 mins      ████░░░░░░     44.33%
-Markdown       1 hr 11 mins        ░░░░░░░░░░     2.68%
+Python         21 hrs 26 mins      █████░░░░░     51.54%
+Kaggle         17 hrs 36 mins      ████░░░░░░     42.32%
+Markdown       1 hr 35 mins        ░░░░░░░░░░     3.84%
 ```
 
 
