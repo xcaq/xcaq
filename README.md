@@ -1,5 +1,5 @@
 
-<h1>Guten Tag. I'm Kirill & I ❤️ code.</h1>
+<h1>Aloha. I'm Kirill & I ❤️ code.</h1>
 <h4>Currently i work at private orders but i always open for cooperation | Write to me: <a href="mailto:git.xcaq@gmail.com">Email <img src="https://camo.githubusercontent.com/5bf17041186bbc591a286709593ee76baf2e4711/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="10"></a></h4>
 <h5>⏰ 20 Saturday, 12:00 | Latest follower – <a href="https://github.com/Rushabh-Runwal/" target="_blank">Rushabh-Runwal</a>👋</h5>
 <hr>
@@ -30,9 +30,9 @@
 
 
 ```text
-Python         15 hrs 33 mins      █████░░░░░     51.24%
-Kaggle         12 hrs 25 mins      ████░░░░░░     40.94%
-Markdown       1 hr 51 mins        ░░░░░░░░░░     6.11%
+Python         12 hrs 57 mins      ████░░░░░░     45.84%
+Kaggle         12 hrs 34 mins      ████░░░░░░     44.46%
+Markdown       2 hrs 16 mins       ░░░░░░░░░░     8.04%
 ```
 
 
