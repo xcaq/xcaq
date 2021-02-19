@@ -1,5 +1,5 @@
 
-<h1>Namaste. I'm Kirill & I ❤️ code.</h1>
+<h1>Shalom. I'm Kirill & I ❤️ code.</h1>
 <h4>Currently i work at private orders but i always open for cooperation | Buy me a coffee: <a href="https://ko-fi.com/susboy">Ko-fi <img src="https://camo.githubusercontent.com/0671999cc88d1011a0de68cd040029b995edfaa9/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f2d66692e737667" width="10"></a></h4>
 <h5>⏰ 19 Friday, 09:28 | Latest follower – <a href="https://github.com/Rushabh-Runwal/" target="_blank">Rushabh-Runwal</a>👋</h5>
 <hr>
@@ -8,7 +8,7 @@
   <tr>
     <td valign="top">
       <h3>Most starred repos: </h3>
-            <h6>⭐️&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;99 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
+            <h6>⭐️&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;107 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;6&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;471 – <a href='https://github.com/xcaq/voicy'>voicy</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;6&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;6 – <a href='https://github.com/xcaq/EasyEpub'>EasyEpub</a></h6> 
     </td>
