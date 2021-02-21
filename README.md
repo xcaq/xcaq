@@ -22,7 +22,7 @@
       <h3>New repositories: </h3>
            <h6>⭐️&nbsp;&nbsp;&nbsp;6&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;523 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;6 – <a href='https://github.com/feschenko/ruotvet'>ruotvet</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;490 – <a href='https://github.com/feschenko/feschenko'>feschenko</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;491 – <a href='https://github.com/feschenko/feschenko'>feschenko</a></h6> 
         </td>
   </tr>
 </table>
