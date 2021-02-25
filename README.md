@@ -9,7 +9,7 @@
     <td valign="top">
       <h3>Most starred repos: </h3>
             <h6>⭐️&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;96 – <a href='https://github.com/feschenko/spotify-to-vk'>spotify-to-vk</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;6&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;602 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;6&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;598 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;6&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;3 – <a href='https://github.com/feschenko/EasyEpub'>EasyEpub</a></h6> 
     </td>
     <td valign="top">
