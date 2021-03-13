@@ -1,6 +1,6 @@
 
-<h1>Ola. I'm Kirill & I ❤️ code.</h1>
-<h4>Currently i work at private orders but i always open for cooperation | Write to me: <a href="mailto:swipduces@yandex.com">Email <img src="https://camo.githubusercontent.com/5bf17041186bbc591a286709593ee76baf2e4711/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="10"></a></h4>
+<h1>Guten Tag. I'm Kirill & I ❤️ code.</h1>
+<h4>Currently i work at private orders but i always open for cooperation | Buy me a coffee: <a href="https://ko-fi.com/susboy">Ko-fi <img src="https://camo.githubusercontent.com/0671999cc88d1011a0de68cd040029b995edfaa9/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f2d66692e737667" width="10"></a></h4>
 <h5>⏰ 14 Sunday, 12:00 | Latest follower – <a href="https://github.com/Amchik/" target="_blank">Leonid Korolev</a>👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
@@ -8,7 +8,7 @@
   <tr>
     <td valign="top">
       <h3>Most starred repos: </h3>
-            <h6>⭐️&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;49 – <a href='https://github.com/feschenko/spotify-to-vk'>spotify-to-vk</a></h6> 
+            <h6>⭐️&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;42 – <a href='https://github.com/feschenko/spotify-to-vk'>spotify-to-vk</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;11&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;117 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;6&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;4 – <a href='https://github.com/feschenko/EasyEpub'>EasyEpub</a></h6> 
     </td>
@@ -30,9 +30,9 @@
 
 
 ```text
-Python         28 hrs 54 mins      ██████░░░░     67.87%
-Kaggle         12 hrs 24 mins      ██░░░░░░░░     29.11%
-JSON           53 mins             ░░░░░░░░░░     2.1%
+Python         25 hrs 25 mins      ██████░░░░     66.38%
+Kaggle         11 hrs 31 mins      ███░░░░░░░     30.09%
+JSON           54 mins             ░░░░░░░░░░     2.37%
 ```
 
 
