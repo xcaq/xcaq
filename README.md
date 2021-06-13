@@ -1,5 +1,5 @@
 
-<h1>Hey. I'm Kirill & I ❤️ code.</h1>
+<h1>你好. I'm Kirill & I ❤️ code.</h1>
 <h4>Currently i work at private orders but i always open for cooperation | Write to me: <a href="mailto:swipduces@yandex.com">Email <img src="https://camo.githubusercontent.com/5bf17041186bbc591a286709593ee76baf2e4711/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="10"></a></h4>
 <h5>⏰ 14 Monday, 12:00 | Latest follower – <a href="https://github.com/Ceer19/" target="_blank">Ceer19</a>👋</h5>
 <hr>
@@ -30,9 +30,9 @@
 
 
 ```text
-Kaggle         37 hrs 17 mins      ███████░░░     78.45%
-Python         10 hrs 7 mins       ██░░░░░░░░     21.31%
-Text           6 mins              ░░░░░░░░░░     0.24%
+Kaggle         40 hrs 33 mins      ███████░░░     79.35%
+Python         10 hrs 24 mins      ██░░░░░░░░     20.35%
+Text           6 mins              ░░░░░░░░░░     0.23%
 ```
 
 
