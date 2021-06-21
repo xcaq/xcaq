@@ -1,7 +1,7 @@
 
-<h1>Hey. I'm Kirill & I ❤️ code.</h1>
-<h4>Currently i work at private orders but i always open for cooperation | Write to me: <a href="mailto:swipduces@yandex.com">Email <img src="https://camo.githubusercontent.com/5bf17041186bbc591a286709593ee76baf2e4711/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="10"></a></h4>
-<h5>⏰ 22 Tuesday, 12:00 | Latest follower – <a href="https://github.com/Ceer19/" target="_blank">maksim_h</a>👋</h5>
+<h1>Hola. I'm Kirill & I ❤️ code.</h1>
+<h4>Currently i work at private orders but i always open for cooperation | Buy me a coffee: <a href="https://ko-fi.com/susboy">Ko-fi <img src="https://camo.githubusercontent.com/0671999cc88d1011a0de68cd040029b995edfaa9/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f2d66692e737667" width="10"></a></h4>
+<h5>⏰ 22 Tuesday, 12:01 | Latest follower – <a href="https://github.com/Ceer19/" target="_blank">maksim_h</a>👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
 <table>
@@ -30,9 +30,9 @@
 
 
 ```text
-Kaggle         45 hrs 40 mins      ███████░░░     77.16%
-Python         12 hrs 43 mins      ██░░░░░░░░     21.48%
-C++            46 mins             ░░░░░░░░░░     1.3%
+Kaggle         36 hrs 48 mins      ███████░░░     70.26%
+Python         14 hrs 48 mins      ██░░░░░░░░     28.25%
+C++            46 mins             ░░░░░░░░░░     1.46%
 ```
 
 
