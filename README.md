@@ -27,8 +27,6 @@
   </tr>
 </table>
 <h2>📊 Weekly development breakdown: </h2>
-
-
 ```text
 Python         14 hrs 15 mins      ████░░░░░░     48.32%
 Kaggle         13 hrs 29 mins      ████░░░░░░     45.76%
