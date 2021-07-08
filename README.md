@@ -16,7 +16,7 @@
       <h3>My stack: </h3>
       <h6>📔&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=python">Python</a> ( Middle )</h6>
       <h6>📗&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=c%23">C#</a> ( Junior )</h6>
-      <h6>📘&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=go">Golang</a> ( Intern )</h6>
+      <h6>📘&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=swift">Swift</a> ( Intern )</h6>
       </td>
      <td valign="top">
       <h3>New repositories: </h3>
@@ -27,10 +27,12 @@
   </tr>
 </table>
 <h2>📊 Weekly development breakdown: </h2>
+
+
 ```text
 Python         14 hrs 15 mins      ████░░░░░░     48.32%
 Kaggle         13 hrs 29 mins      ████░░░░░░     45.76%
-C++            1 hr 38 mins        ░░░░░░░░░░     5.58%
+Swift           1 hr 38 mins        ░░░░░░░░░░     5.58%
 ```
 
 
